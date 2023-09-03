@@ -1,6 +1,6 @@
 # Fatima Clinic Website and Logo
 
-![Fatima Clinic Website](/Screenshot 2023-09-03 140724.png)
+![Fatima Clinic Website]('./Screenshot 2023-09-03 140724.png')
 ### (This is just a dummy project for my portfolio and doesn't belong to any institute or paid project)
 This repository contains the source code for the Fatima Clinic website and its associated logo. The website is designed to provide information about Fatima Clinic's services and contact details.
 
